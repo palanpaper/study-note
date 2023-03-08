@@ -4,4 +4,4 @@
 
 ## 목차
 
-### [1. Selectors](https://github.com/palanpaper/study-note/CSS/Selectors.md)
+### [1. Selectors](https://github.com/palanpaper/study-note/blob/main/CSS/Selectors.md)
